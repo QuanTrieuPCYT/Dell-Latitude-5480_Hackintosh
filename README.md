@@ -33,8 +33,8 @@ OpenCore bootloader for stability.
 * USB 3.0 ports and USB-C
 * Ethernet
 * Audio (ALC256 with VerbStub, or you can use [**this kext with `layout-id` set to `69` cuz it also works**](https://github.com/ic005k/ALC256))
-* SD Card slot (using [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
-* Sleep & Wake with Lid (now works with USB mapping and [GPRW/UPRW/LANC Instant Wake Patch](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
+* SD Card slot (using [**Sinetek-rtsx**](https://github.com/cholonam/Sinetek-rtsx))
+* Sleep & Wake with Lid (now works with USB mapping and [**GPRW/UPRW/LANC Instant Wake Patch**](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
 * CPU Power Management
 * iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
 * SMBUS
@@ -51,4 +51,5 @@ OpenCore bootloader for stability.
 * [Dortania](https://dortania.github.io) for [**OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide)
 * [RehabMan](https://github.com/RehabMan) for [**USBInjectAll**](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (without this kext i will not be able to map USB)
 * [headkaze](https://github.com/headkaze) for [**Hackintool**](https://github.com/headkaze/Hackintool)
+* [cholonam](https://github.com/cholonam), [syscl](https://github.com/syscl) and [sinetek](https://github.com/sinetek) for [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
 * And special thanks to [**Văn Hùng Nguyễn**](https://github.com/vanhung4499) (vanhung4499) for helping me with the touchpad fix (the hardest part)
