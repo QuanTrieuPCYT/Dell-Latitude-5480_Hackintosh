@@ -41,6 +41,7 @@ OpenCore bootloader for stability.
 * Microphone
 * Touchpad (just basic scrolling and click functions)
 ## ❌ Not workin'
+* Multi gestures touchpad (basic functions like scrolling and clicking still works)
 * DRM (not possible on iGPU-only hacks)
 * Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
 * **You tell me**
