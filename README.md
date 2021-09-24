@@ -34,7 +34,7 @@ OpenCore bootloader for stability.
 * Ethernet
 * Audio (using [**this kext with `layout-id` set to `69`**](https://github.com/ic005k/ALC256))
 * SD Card slot (using [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/))
-* Sleep & Wake with Lid (now works with USB mapping and [**GPRW/UPRW/LANC Instant Wake Patch**](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
+* Sleep & Wake with Lid (now works with USB mapping and [**GPRW and UPRW Instant Wake Patch**](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
 * CPU Power Management
 * iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
 * SMBUS
