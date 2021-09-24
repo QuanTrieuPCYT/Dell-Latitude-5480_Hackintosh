@@ -30,7 +30,7 @@ OpenCore bootloader for stability.
 ## ✅ Whats workin'
 * Graphics acceleration (Intel® HD Graphics 620)
 * Dual Display with VGA, USB-C and HDMI ports.
-* USB 3.0 ports and USB-C
+* All USB ports (3x USB 3.0, 1x USB-C)
 * Ethernet
 * Audio (using [**this kext with `layout-id` set to `69`**](https://github.com/ic005k/ALC256))
 * SD Card slot (using [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/))
