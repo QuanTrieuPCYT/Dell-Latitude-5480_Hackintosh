@@ -32,7 +32,7 @@ OpenCore bootloader for stability.
 * Dual Display with VGA, USB-C and HDMI ports.
 * USB 3.0 ports and USB-C
 * Ethernet
-* Audio (ALC256 with VerbStub, or you can use [**this kext with `layout-id` set to `69` cuz it also works**](https://github.com/ic005k/ALC256)
+* Audio (ALC256 with VerbStub, or you can use [**this kext with `layout-id` set to `69` cuz it also works**](https://github.com/ic005k/ALC256))
 * SD Card slot (macOS detects it as a normal USB 2.0 device, not a PCI-E card reader so it will work just fine)
 * Sleep & Wake with Lid (now works with USB mapping)
 * CPU Power Management (fixed in 1.1 release)
