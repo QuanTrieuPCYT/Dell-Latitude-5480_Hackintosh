@@ -51,5 +51,4 @@ OpenCore bootloader for stability.
 * [Dortania](https://dortania.github.io) for [**OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide)
 * [RehabMan](https://github.com/RehabMan) for [**USBInjectAll**](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (without this kext i will not be able to map USB)
 * [headkaze](https://github.com/headkaze) for [**Hackintool**](https://github.com/headkaze/Hackintool)
-* [NVIDIA](https://nvidia.com) for [**NVIDIA Web Drivers**](https://www.tonymacx86.com/nvidia-drivers)
 * And special thanks to [**Văn Hùng Nguyễn**](https://github.com/vanhung4499) (vanhung4499) for helping me with the touchpad fix (the hardest part)
