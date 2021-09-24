@@ -25,3 +25,31 @@ OpenCore bootloader for stability.
 - **Trackpad:** Alps I2C HID Trackpad (DLL07A7)
 - **SD Card Reader:** Realtek RTS525A
 - **Internal Display:** 1920x1080 Full HD Screen
+- **Runs Big Sur perfectly, haven't tried Monterey yet**
+
+## ✅ Whats workin'
+* Graphics acceleration (Intel® HD Graphics 620)
+* Dual Display with VGA, USB-C and HDMI ports.
+* USB 3.0 ports and USB-C
+* Ethernet
+* Audio (ALC256 with VerbStub, or you can use [**this kext with `layout-id` set to `69` cuz it also works**](https://github.com/ic005k/ALC256)
+* SD Card slot (macOS detects it as a normal USB 2.0 device, not a PCI-E card reader so it will work just fine)
+* Sleep & Wake with Lid (now works with USB mapping)
+* CPU Power Management (fixed in 1.1 release)
+* iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
+* SMBUS
+* Microphone
+* Touchpad (just basic scrolling and click functions)
+## ❌ Not workin'
+* DRM (not possible on iGPU-only hacks)
+* Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
+* **You tell me**
+
+## Credits
+* [Apple](https://apple.com) for [**macOS**](https://apple.com/macos)
+* [acidanthera](https://github.com/acidanthera) for [**OpenCore**](https://github.com/acidanthera/OpenCorePkg), [**Lilu**](https://github.com/acidanthera/Lilu), [**WhateverGreen**](https://github.com/acidanthera/WhateverGreen) and [**AppleALC**](https://github.com/acidanthera/AppleALC)
+* [Dortania](https://dortania.github.io) for [**OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide)
+* [RehabMan](https://github.com/RehabMan) for [**USBInjectAll**](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (without this kext i will not be able to map USB)
+* [headkaze](https://github.com/headkaze) for [**Hackintool**](https://github.com/headkaze/Hackintool)
+* [NVIDIA](https://nvidia.com) for [**NVIDIA Web Drivers**](https://www.tonymacx86.com/nvidia-drivers)
+* And special thanks to [**Văn Hùng Nguyễn**](https://github.com/vanhung4499) (vanhung4499) for helping me with the touchpad fix (the hardest part)
