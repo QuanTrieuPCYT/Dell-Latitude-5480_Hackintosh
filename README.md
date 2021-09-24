@@ -53,5 +53,5 @@ OpenCore bootloader for stability.
 * [RehabMan](https://github.com/RehabMan) for [**USBInjectAll**](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (without this kext i will not be able to map USB)
 * [headkaze](https://github.com/headkaze) for [**Hackintool**](https://github.com/headkaze/Hackintool)
 * [cholonam](https://github.com/cholonam), [syscl](https://github.com/syscl) and [sinetek](https://github.com/sinetek) for [**Sinetek-rtsx**](https://github.com/cholonam/Sinetek-rtsx) (thanks for bringing my SD Card reader back to life)
-* [0xFireWolf](https://github.com/0xFireWolf) for [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/)
+* [0xFireWolf](https://github.com/0xFireWolf) for [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/) (basically a better version of [**Sinetek-rtsx**](https://github.com/cholonam/Sinetek-rtsx))
 * And special thanks to [**Văn Hùng Nguyễn**](https://github.com/vanhung4499) (vanhung4499) for helping me with the touchpad fix (the hardest part)
