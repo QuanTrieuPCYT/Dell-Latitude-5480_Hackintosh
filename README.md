@@ -16,12 +16,12 @@ OpenCore bootloader for stability.
 ![the laptop itself](https://user-images.githubusercontent.com/73286927/134605704-947a77cf-4f3a-4b4c-ad7b-e76d07806fd0.jpg)
 
 **Model: Dell Latitude 5480**
-**CPU:** Intel® Core™ i5-7200U
-**GPU:** Intel® HD Graphics 620
-**RAM:** 8GB/16GB DDR4 2133MHz
-**Ethernet:** Intel® Ethernet I219-LM
-**Wi-Fi:** Intel® Dual Band Wireless-AC 8265
-**Sound Card:** ALC256 (layout-id `21`)
-**Trackpad:** Alps I2C HID Trackpad (DLL07A7)
-**SD Card Reader:** Realtek RTS525A
-**Internal Display:** 1920x1080 Full HD Screen
+- **CPU:** Intel® Core™ i5-7200U
+- **GPU:** Intel® HD Graphics 620
+- **RAM:** 8GB/16GB DDR4 2133MHz
+- **Ethernet:** Intel® Ethernet I219-LM
+- **Wi-Fi:** Intel® Dual Band Wireless-AC 8265
+- **Sound Card:** ALC256 (layout-id `21`)
+- **Trackpad:** Alps I2C HID Trackpad (DLL07A7)
+- **SD Card Reader:** Realtek RTS525A
+- **Internal Display:** 1920x1080 Full HD Screen
