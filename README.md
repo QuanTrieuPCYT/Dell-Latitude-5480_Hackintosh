@@ -32,8 +32,8 @@ OpenCore bootloader for stability.
 * Dual Display with VGA, USB-C and HDMI ports.
 * USB 3.0 ports and USB-C
 * Ethernet
-* Audio (ALC256 with VerbStub, or you can use [**this kext with `layout-id` set to `69` cuz it also works**](https://github.com/ic005k/ALC256))
-* SD Card slot (using [**Sinetek-rtsx**](https://github.com/cholonam/Sinetek-rtsx))
+* Audio (using [**this kext with `layout-id` set to `69`**](https://github.com/ic005k/ALC256))
+* SD Card slot (using [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/))
 * Sleep & Wake with Lid (now works with USB mapping and [**GPRW/UPRW/LANC Instant Wake Patch**](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
 * CPU Power Management
 * iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
@@ -53,4 +53,5 @@ OpenCore bootloader for stability.
 * [RehabMan](https://github.com/RehabMan) for [**USBInjectAll**](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (without this kext i will not be able to map USB)
 * [headkaze](https://github.com/headkaze) for [**Hackintool**](https://github.com/headkaze/Hackintool)
 * [cholonam](https://github.com/cholonam), [syscl](https://github.com/syscl) and [sinetek](https://github.com/sinetek) for [**Sinetek-rtsx**](https://github.com/cholonam/Sinetek-rtsx) (thanks for bringing my SD Card reader back to life)
+* [0xFireWolf](https://github.com/0xFireWolf) for [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/)
 * And special thanks to [**Văn Hùng Nguyễn**](https://github.com/vanhung4499) (vanhung4499) for helping me with the touchpad fix (the hardest part)
