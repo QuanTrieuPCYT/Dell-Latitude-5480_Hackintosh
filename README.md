@@ -42,6 +42,7 @@ OpenCore bootloader for stability.
 * SMBUS
 * Microphone
 * Touchpad (just basic scrolling and click functions)
+* Front Camera
 ## ❌ Not workin'
 * Multi gestures touchpad (basic functions like scrolling and clicking still works)
 * DRM (not possible on iGPU-only hacks)
