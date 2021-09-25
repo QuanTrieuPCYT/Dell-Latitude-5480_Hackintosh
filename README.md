@@ -15,7 +15,7 @@ OpenCore bootloader for stability.
 **Dual Display with USB-C hub** (HDMI also works and it outputs the same image)
 
 ## Laptop Specs!
-[Uploading h.jpg…]()
+![image1.png](https://cdn.discordapp.com/attachments/839427463334461490/891240486684209152/image1.jpg)
 
 **Model: Dell Latitude 5480**
 - **CPU:** Intel® Core™ i5-7200U
