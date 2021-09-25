@@ -27,7 +27,7 @@ OpenCore bootloader for stability.
 - **Trackpad:** Alps I2C HID Trackpad (DLL07A7)
 - **SD Card Reader:** Realtek RTS525A
 - **Internal Display:** 1920x1080 Full HD Screen
-- **Runs Big Sur perfectly, haven't tried Monterey yet**
+- **Runs Big Sur with Monterey perfectly 👌**
 
 ## ✅ Whats workin'
 * Graphics acceleration (Intel® HD Graphics 620)
