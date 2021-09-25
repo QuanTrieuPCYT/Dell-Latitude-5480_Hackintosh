@@ -23,7 +23,7 @@ OpenCore bootloader for stability.
 - **RAM:** 8GB/16GB DDR4 2133MHz
 - **Ethernet:** Intel® Ethernet I219-LM
 - **Wi-Fi:** Intel® Dual Band Wireless-AC 8265
-- **Sound Card:** ALC256 (layout-id `21`)
+- **Sound Card:** ALC256 (layout-id `69` with [**ALC256.kext**](https://github.com/ic005k/ALC256))
 - **Trackpad:** Alps I2C HID Trackpad (DLL07A7)
 - **SD Card Reader:** Realtek RTS525A
 - **Internal Display:** 1920x1080 Full HD Screen
@@ -34,7 +34,7 @@ OpenCore bootloader for stability.
 * Dual Display with VGA, USB-C and HDMI ports.
 * All USB ports (3x USB 3.0, 1x USB-C)
 * Ethernet
-* Audio (using [**this kext with `layout-id` set to `69`**](https://github.com/ic005k/ALC256))
+* Audio (using [**ALC256.kext with `layout-id` set to `69`**](https://github.com/ic005k/ALC256))
 * SD Card slot (using [**RealtekCardReader**](https://github.com/0xFireWolf/RealtekCardReader) and [**RealtekCardReaderFriend**](https://github.com/0xFireWolf/RealtekCardReaderFriend/))
 * Sleep & Wake with Lid (now works with USB mapping and [**GPRW and UPRW Instant Wake Patch**](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html))
 * CPU Power Management
