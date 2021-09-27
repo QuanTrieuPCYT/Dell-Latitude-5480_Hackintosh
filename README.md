@@ -1,9 +1,11 @@
 # Dell Latitude 5480 Hackintosh EFI - macOS 11 and 12
 **Introducing my new hack: Dell Latitude 5480 running macOS!**
-
+**Can be used for the Dell Latitude 5280/5580 and the Dell Precision 3520 as well (w/ some modifications)**
 OpenCore bootloader for stability.
 
-**NOTE:** Please use 1.2 EFI if you want to boot Monterey, use 1.1 EFI if you want to boot Big Sur.
+**NOTE:**
+* For more proper CPU Power Management, please [**disable your CFG Lock**](/Disable_CFG_Lock.md).
+* Please use 1.2 EFI if you want to boot Monterey, use 1.1 EFI if you want to boot Big Sur.
 
 ![screenshot with neofetch](https://user-images.githubusercontent.com/73286927/134603078-0e84dd30-b772-41c0-83b8-c9c946951edd.png)
 **Running fine on macOS Big Sur. Monterey should work, but you'll need to update your Wi-Fi kext.**
