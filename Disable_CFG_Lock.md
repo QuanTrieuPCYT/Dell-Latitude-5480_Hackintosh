@@ -1,4 +1,4 @@
-# Disable CFG Lock (my 1 hour of researches)
+# Disable CFG Lock (my 1 hour of researching)
 ## ⚠ Only appicable for Dell Latitude 5280/5480/5580 and Dell Precision 3520 ⚠
 
 So you're here because you just want to unlock the CFG Lock of your bad boi right?
