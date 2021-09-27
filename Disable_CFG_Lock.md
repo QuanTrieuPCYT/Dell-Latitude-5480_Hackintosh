@@ -30,6 +30,6 @@ Next, type `setup_var 0x4ED 0x00`.
 
 After doing the commands, if it shows no error (like the image above), **please shutdown your PC and turn it on again**. After that, boot OpenCore and select `ControlMsr32.efi` to see if your CFG Lock is disabled or not.
 
-If it shows `This firmware has UNLOCKED MSR 0xE2 register!` then you successfully unlocked your CFG Lock!
+If it shows `This firmware has UNLOCKED MSR 0xE2 register!` then you successfully unlocked your CFG Lock! **Also please don't reset your BIOS, or your CFG Lock will be enabled again after doing so**.
 
 Finally, go into your `config.plist` of OpenCore and set both `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` to `TRUE`, then boot macOS as normal. After all of the above steps, you should have better CPU Power Management.
