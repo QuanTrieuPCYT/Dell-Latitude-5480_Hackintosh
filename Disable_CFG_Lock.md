@@ -32,4 +32,4 @@ After doing the commands, if it shows no error (like the image above), **please 
 
 If it shows `This firmware has UNLOCKED MSR 0xE2 register!` then you successfully unlocked your CFG Lock!
 
-Finally, go into your `config.plist` of OpenCore and set both `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` to `TRUE`, then boot macOS as normal. You should have better CPU Power Management.
+Finally, go into your `config.plist` of OpenCore and set both `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` to `TRUE`, then boot macOS as normal. After all of the above steps, you should have better CPU Power Management.
