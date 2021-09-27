@@ -1,6 +1,7 @@
 # Dell Latitude 5480 Hackintosh EFI - macOS 11 and 12
 **Introducing my new hack: Dell Latitude 5480 running macOS!**
 **Can be used for the Dell Latitude 5280/5580 and the Dell Precision 3520 as well (w/ some modifications)**
+
 OpenCore bootloader for stability.
 
 **NOTE:**
