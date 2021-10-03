@@ -17,7 +17,7 @@ Boot up OpenCore and choose `ControlMsr32.efi`. It should show you one of the fo
 
 `This firmware has LOCKED MSR 0xE2 register!` - means CFG Lock is enabled
 
-For the former, go into your `config.plist` of OpenCore and set both `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` to `TRUE` then you can close this page. **Don't reset your BIOS or the CFG Lock will be enabled again**.
+For the former, go into your `config.plist` of OpenCore and set both `AppleCpuPmCfgLock` and `AppleXcpmCfgLock` to `FALSE` then you can close this page. **Don't reset your BIOS or the CFG Lock will be enabled again**.
 
 For the latter, please continue.
 
