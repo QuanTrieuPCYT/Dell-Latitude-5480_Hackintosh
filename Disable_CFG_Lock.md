@@ -2,6 +2,7 @@
 ## ⚠ Only appicable for Dell Latitude 5280/5480/5580 and Dell Precision 3520 ⚠
 
 So you're here because you just want to unlock the CFG Lock of your bad boi right?
+Why CSR Unlock? [**Read this from Dortania**](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock)
 You will need the followings:
 * `ControlMsr32.efi` (or `VerifyMsr32.efi`) - bundled with [**OpenCorePkg**](https://github.com/acidanthera/OpenCorePkg) in your `/EFI/OC/Tools`
 * `modGRUBShell.efi` - download [**here**](https://github.com/datasone/grub-mod-setup_var)
