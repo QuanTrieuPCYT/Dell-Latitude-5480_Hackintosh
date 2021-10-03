@@ -28,7 +28,7 @@ OpenCore bootloader for stability.
 - **Ethernet:** Intel® Ethernet I219-LM
 - **Wi-Fi:** Intel® Dual Band Wireless-AC 8265
 - **Sound Card:** ALC256 (layout-id `69` with [**ALC256.kext**](https://github.com/ic005k/ALC256))
-- **Trackpad:** Alps I2C HID Trackpad (DLL07A7)
+- **Trackpad:** Alps I2C HID Trackpad (`0x120b`)
 - **SD Card Reader:** Realtek RTS525A
 - **Internal Display:** 1920x1080 Full HD Screen
 - **Runs Big Sur with Monterey perfectly 👌**
