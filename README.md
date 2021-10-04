@@ -28,7 +28,7 @@ OpenCore bootloader for stability.
 - **Ethernet:** Intel® Ethernet I219-LM
 - **Wi-Fi:** Intel® Dual Band Wireless-AC 8265
 - **Sound Card:** ALC256 (layout-id `69` with [**ALC256.kext**](https://github.com/ic005k/ALC256))
-- **Trackpad:** Alps I2C HID Trackpad (`0x120b`)
+- **Trackpad:** AlpsAlpine U1 Dual I2C Touchpad (`0x120b`)
 - **SD Card Reader:** Realtek RTS525A
 - **Internal Display:** 1920x1080 Full HD Screen
 - **Runs Big Sur with Monterey perfectly 👌**
@@ -53,7 +53,8 @@ OpenCore bootloader for stability.
 * DRM (not possible on iGPU-only hacks)
 * Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
 * **You tell me**
-
+## 🗓 Ongoing supports
+* Multitouch gestures for the AlpsAlpine U1 Dual I2C Touchpad (`0x120b`)
 ## Credits
 * [Apple](https://apple.com) for [**macOS**](https://apple.com/macos)
 * [acidanthera](https://github.com/acidanthera) for [**OpenCore**](https://github.com/acidanthera/OpenCorePkg), [**Lilu**](https://github.com/acidanthera/Lilu), [**WhateverGreen**](https://github.com/acidanthera/WhateverGreen) and [**AppleALC**](https://github.com/acidanthera/AppleALC)
