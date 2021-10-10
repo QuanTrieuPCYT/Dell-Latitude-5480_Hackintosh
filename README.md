@@ -45,7 +45,7 @@ OpenCore bootloader for stability.
 * iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
 * SMBUS
 * Microphone
-* Multi gestures touchpad (basic functions like scrolling and clicking still works)
+* Multi gestures touchpad (thanks to [**Juico's AlpsT4USB**](https://github.com/juico/AlpsT4USB)!)
 * Front Camera
 * Boot Chime
 ## ❌ Not workin'
