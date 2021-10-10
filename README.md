@@ -45,11 +45,10 @@ OpenCore bootloader for stability.
 * iServices (using **this guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html**)
 * SMBUS
 * Microphone
-* Touchpad (just basic scrolling and click functions)
+* Multi gestures touchpad (basic functions like scrolling and clicking still works)
 * Front Camera
 * Boot Chime
 ## ❌ Not workin'
-* Multi gestures touchpad (basic functions like scrolling and clicking still works)
 * DRM (not possible on iGPU-only hacks)
 * Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
 * **You tell me**
