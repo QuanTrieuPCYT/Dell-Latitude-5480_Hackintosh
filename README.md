@@ -52,8 +52,6 @@ OpenCore bootloader for stability.
 * DRM (not possible on iGPU-only hacks)
 * Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
 * **You tell me**
-## 🗓 Ongoing supports
-* Multitouch gestures for the AlpsAlpine U1 Dual I2C Touchpad (`0x120b`)
 ## Credits
 * [Apple](https://apple.com) for [**macOS**](https://apple.com/macos)
 * [acidanthera](https://github.com/acidanthera) for [**OpenCore**](https://github.com/acidanthera/OpenCorePkg), [**Lilu**](https://github.com/acidanthera/Lilu), [**WhateverGreen**](https://github.com/acidanthera/WhateverGreen) and [**AppleALC**](https://github.com/acidanthera/AppleALC)
