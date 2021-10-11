@@ -6,7 +6,7 @@
 OpenCore bootloader for stability.
 
 **NOTE:**
-* For more proper CPU Power Management, please [**disable your CFG Lock**](/Disable_CFG_Lock.md).
+* Please [**disable your CFG Lock**](/Disable_CFG_Lock.md) and [**Adjust your DVMT**](/Adjusting_DVMT.md).
 * The EFI was designed to boot Monterey, to boot Big Sur you will need to make some changes with your kext folder as described in the release's description since 1.2.
 
 ![screenshot with neofetch](https://user-images.githubusercontent.com/73286927/134603078-0e84dd30-b772-41c0-83b8-c9c946951edd.png)
