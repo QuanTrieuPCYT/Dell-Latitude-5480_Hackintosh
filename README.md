@@ -6,6 +6,7 @@
 OpenCore bootloader for stability.
 
 **NOTE:**
+* Use [**one-key-hidpi**](https://github.com/xzhih/one-key-hidpi) to get HiDPI support in macOS
 * Please [**disable your CFG Lock**](/Disable_CFG_Lock.md) and [**adjust your DVMT**](/Adjusting_DVMT.md).
 * The EFI was designed to boot Monterey, to boot Big Sur you will need to make some changes with your kext folder as described in the release's description since 1.2.
 
